@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Ryan D'Souza
+ID:      169065593
+Email:   dsou5593@mylaurier.ca
+Version: 2023-11-02
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 6
+Too high, try again.
+Guess: 8
+Too high, try again.
+Guess: 2
+Too high, try again.
+Guess: 1
+Too high, try again.
+Guess: 10
+Congratulations - good guess!
+You made 5 guesses.
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+30
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+First value: 3.2
+Next value: -6.8
+Next value: 23
+Next value: -5.4
+Next value: 0
+Next value: -999
+(2, 1, 2)
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For Day 1
+
+How much was breakfast? $7.95
+How much was lunch? $15.32
+How much was supper? $42.56
+Your total for the day was $65.83
+
+Were you away another day (Y/N)? Y
+For Day 2
+
+How much was breakfast? $5.55
+How much was lunch? $12.39
+How much was supper? $54.17
+Your total for the day was $72.11
+
+Were you away another day (Y/N)? N
+(13.5, 27.71, 96.73, 137.94)
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter a value between 0 and 100: 110
+Value entered is too high
+Enter a value between 0 and 100: -10
+Value entered is too low
+Enter a value between 0 and 100: 75
+
+75
+-------------------------------------------------------

@@ -1,0 +1,42 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Ryan D'Souza
+ID:      169065593
+Email:   dsou5593@mylaurier.ca
+Version: 2023-10-06
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the radius of the circle: 2.5
+15.71
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the length of the adjacent side: 3.0
+Enter the length of the opposite side: 4.0
+(5.0, 12.0, 6.0)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter the cost per computer: 1399
+Enter the number of computers bought: 87
+Enter the wholesaler commission percentage: 8.5
+(121713.00, 132058.61)
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter the numerator of the first fraction: 1
+Enter the denominator of the first fraction (must be nonzero): 2
+Enter the numerator of the second fraction: 4
+Enter the denominator of the second fraction (must be nonzero): 5
+(4, 10, 0.4)
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Enter the number of seconds: 956000
+(11, 1, 33, 20)
+-------------------------------------------------------

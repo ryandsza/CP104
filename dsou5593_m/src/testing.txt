@@ -1,0 +1,71 @@
+"""
+-------------------------------------------------------
+Midterm A Testing
+-------------------------------------------------------
+Author: Ryan D'souza
+ID:     169065593
+Email:  dsou5593@mylaurier.ca
+Version: 2023-10-30
+-------------------------------------------------------
+Task 01
+-------------------------------------------------------
+"""
+
+Dollars: 100
+minimal_change(100) -> (5, 0, 0, 0)
+
+Dollars: 42
+minimal_change(42) -> (2, 0, 0, 2)
+
+Dollars: 13
+minimal_change(13) -> (0, 1, 0, 3)
+
+Dollars: 28
+minimal_change(28) -> (1, 0, 1, 3)
+
+"""
+-------------------------------------------------------
+Task 02
+-------------------------------------------------------
+"""
+
+Points: -1
+categorize(-1) -> Error
+
+Points: 50
+categorize(50) -> Noob
+
+Points: 203
+categorize(203) -> Player
+
+Points: 425
+categorize(425) -> Master
+
+Points: 901
+categorize(901) -> Grandmaster
+
+"""
+-------------------------------------------------------
+Task 03
+-------------------------------------------------------
+"""
+
+How many extra services are you purchasing? 3
+Are you a VIP member (Y/N)? Y
+Cost: $170.00
+
+How many extra services are you purchasing? 1
+Cost: $130.00
+
+How many extra services are you purchasing? 3
+Are you a VIP member (Y/N)? N
+Cost: $200.00
+
+"""
+-------------------------------------------------------
+Task 04
+-------------------------------------------------------
+"""
+Response: Win, Classification: Epic!
+Response: Loss, Classification: Brutal
+Response: Ryan, Classification: Say what?
